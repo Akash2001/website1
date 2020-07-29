@@ -260,7 +260,8 @@ div a:hover{
     	height: 480px;
     }
     #caption{
-    	height: 80px;
+    	width: 10%;
+    	margin-right: 45%;
     }
     /**Body**/
     #box1{
@@ -301,8 +302,9 @@ div a:hover{
     	width: 800px;
     	height: 450px;
     }
-     #caption{
-    	height: 60px;
+    #caption{
+    	width: 10%;
+    	margin-right: 45%;
     }
     /**Body**/
     #box1{
@@ -338,8 +340,9 @@ div a:hover{
     	width: 680px;
     	height: 420px;
     }
-     #caption{
-    	height: 50px;
+    #caption{
+    	width: 20%;
+    	margin-right: 40%;
     }
     /**Body**/
     #box1{
